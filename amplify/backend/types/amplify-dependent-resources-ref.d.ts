@@ -1,0 +1,13 @@
+export type AmplifyDependentResourcesAttributes = {
+  "auth": {
+    "reactfullstackappc8a1df95": {
+      "AppClientID": "string",
+      "AppClientIDWeb": "string",
+      "IdentityPoolId": "string",
+      "IdentityPoolName": "string",
+      "UserPoolArn": "string",
+      "UserPoolId": "string",
+      "UserPoolName": "string"
+    }
+  }
+}
